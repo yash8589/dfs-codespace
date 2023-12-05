@@ -1,0 +1,4 @@
+update 
+ffmpeg -y
+libsm6 -y
+libxext6 -y
